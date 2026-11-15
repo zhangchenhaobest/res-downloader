@@ -1,3 +1,29 @@
+# res-downloader
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+A downloader for common online media resources including short-video platforms, live streams, m3u8 and music services.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ 音乐等常见网络资源下载工具。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
 
 <a href="https://github.com/putyy/res-downloader"><img src="build/appicon.png" width="120"/></a>
